@@ -29,3 +29,5 @@ python TeleZabbix.py stop
 
 python TeleZabbix.py status
 
+#Tutorial PT-BR
+https://gamblersec.blogspot.com.br/2016/03/telezabbix-notificacoes-do-zabbix-no.html
