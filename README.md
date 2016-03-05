@@ -1,5 +1,5 @@
 # TeleZabbix
-Receive in your Telegram chat/group notifications of hosts/webs down.
+Stop spending money with SMS, receive in your Telegram chat/group notifications of hosts/webs down.
 
 #Install dependencies
 pip install -r dependencies.txt
